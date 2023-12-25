@@ -12,13 +12,6 @@ Glasses have evolved beyond mere vision correction tools. They have become state
 | C354BSY3167      | Bayu Krisna | Cloud Computing | [LinkedIn](https://www.linkedin.com/in/bayu-krisna-a38a10229/)       |
 | C525BSY3063      | Galang Wijaya | Cloud Computing | [LinkedIn](https://www.linkedin.com/in/galang-wijaya/)|
 | A227BSX2016      | Ananda Navisha | Mobile Development | [LinkedIn](https://www.linkedin.com/in/anandanavisha/)|
-# Technical Description
-## Machine Learning
-
-## Cloud Computing
-
-## Android Development
-
 # Reference
 [1] E-tailers versus retailers: Which factors determine consumer preferences, n.d. . Journal of Business Research 57, 685–695. https://doi.org/10.1016/S0148-2963(02)00360-0
 
