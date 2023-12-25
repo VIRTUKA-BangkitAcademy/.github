@@ -21,6 +21,9 @@ Glasses have evolved beyond mere vision correction tools. They have become state
 
 # Reference
 [1] E-tailers versus retailers: Which factors determine consumer preferences, n.d. . Journal of Business Research 57, 685–695. https://doi.org/10.1016/S0148-2963(02)00360-0
+
 [2] Smith, P., n.d. Global eyewear market value 2022-2030. Statista. URL https://www.statista.com/statistics/300087/global-eyewear-market-value/ (accessed 11.12.23)
+
 [3] Eyewear - Indonesia, n.d. . Statista. URL https://www.statista.com/outlook/cmo/eyewear/indonesia (accessed 11.12.23)
+
 [4] Sivak, A.M., Spafford, M.M., Irving, E.L., n.d. Patient views about online purchasing of eyewear. Ophthalmic and Physiological Optics 40, 249–253. https://doi.org/10.1111/opo.12689
